@@ -1,0 +1,18 @@
+Oradea<-Alesd <-Huedin <-Cluj Napoca <-Campia Turzii <-Razboieni <-Aiud <-Teius <-Blaj <-Medias <-Sighisoara <-Brasov <-Predeal <-Bucuresti Nord 
+
+
+Oradea<-Tileagd <-Alesd <-Huedin <-Cluj Napoca <-Campia Turzii <-Razboieni <-Aiud <-Teius <-Blaj <-Medias <-Sighisoara <-Brasov <-Predeal <-Bucuresti Nord 
+
+
+Oradea<-Oradea Est <-Osorhei <-Alesd <-Huedin <-Cluj Napoca <-Campia Turzii <-Razboieni <-Aiud <-Teius <-Blaj <-Medias <-Sighisoara <-Brasov <-Predeal <-Bucuresti Nord 
+
+
+Oradea<-Salonta <-Ciumeghiu <-Chisineu Cris <-Santana <-Arad <-Timisoara Nord <-Lugoj <-Caransebes <-Baile Herculane <-Orsova <-Drobeta Turnu Severin <-Balota <-Filiasi <-Craiova <-Caracal <-Rosiori Nord <-Videle <-Bucuresti Nord 
+
+
+Oradea<-Oradea Vest <-Gepiu hc <-Cefa <-Madaras Bihor hc <-Salonta <-Ciumeghiu <-Chisineu Cris <-Santana <-Arad <-Timisoara Nord <-Lugoj <-Caransebes <-Baile Herculane <-Orsova <-Drobeta Turnu Severin <-Balota <-Filiasi <-Craiova <-Caracal <-Rosiori Nord <-Videle <-Bucuresti Nord 
+
+
+Oradea<-Sacuieni Bihor <-Valea lui Mihai <-Carei <-Satu Mare <-Odoreu <-Mediesu Aurit <-Apa <-Seini <-Baia Mare <-Satulung pe Somes <-Miresu Mare hm <-Ulmeni Salaj <-Benesat <-Jibou <-Letca <-Rastoci <-Ileanda <-Galgau <-Catcau <-Dej Calatori <-Beclean pe Somes <-Saratel <-Deda <-Toplita <-Gheorgheni <-Izvoru Oltului <-Siculeni <-Miercurea Ciuc <-Baile Tusnad Hm <-Sfantu Gheorghe <-Brasov <-Predeal <-Bucuresti Nord 
+
+
